@@ -13,3 +13,8 @@ User story 2
 ```
 I can click on a link that will take me to an external website with further information on the topic.
 ```
+
+### Code pen
+
+The page can be viewed with code pen as well. 
+http://codepen.io/harsh183/full/BLaYRx/
